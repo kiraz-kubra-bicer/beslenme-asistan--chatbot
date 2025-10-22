@@ -71,9 +71,14 @@ Soru Örneği (Karşılaştırma): "Apple mı yoksa banana mu şeker daha yükse
 
 
   ### Web Arayüzü Görüntüsü
-![Uygulama Arayüzü](images/uygulama_arayuzu.png)
+
+<img width="844" height="639" alt="image" src="https://github.com/user-attachments/assets/00ea7ca6-cdd4-4e94-87d4-22edf0e2297e" />
+
+
 
 ### Karşılaştırma Yeteneği Testi
-![Karşılaştırma Testi](images/karşilaştirma_testi.png)
+<img width="893" height="653" alt="image" src="https://github.com/user-attachments/assets/23db17ea-8d05-4a9d-a9ab-0874c33d46bb" />
+
 ### Tek Değer Bulma Testi 
-![Tek Değer Testi Testi](images/tek_deger_testi.png)
+<img width="870" height="577" alt="image" src="https://github.com/user-attachments/assets/d5dd6d5a-5471-49ae-8a60-1932490d77bc" />
+
