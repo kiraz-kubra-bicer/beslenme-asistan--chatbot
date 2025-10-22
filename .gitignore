@@ -1,0 +1,19 @@
+# 1. Güvenlik ve Hassas Bilgiler (KRİTİK)
+.env               # API Anahtarını içeren dosyayı gizle
+.streamlit/secrets.toml # Streamlit'in deploy sırasında kullandığı sırları gizle (ileride gerekebilir)
+
+# 2. Python Ortamı ve Cache
+venv/              # Sanal ortam klasörü
+.venv/
+__pycache__/       # Python derleme önbelleği
+*.pyc
+*.swp
+
+# 3. Notebook ve IDE Ayarları
+.ipynb_checkpoints/ # Jupyter/Colab otomatik yedeklerini gizle
+.vscode/            # VS Code ayarlarınızı gizle (isteğe bağlı)
+.DS_Store           # macOS sistem dosyalarını gizle
+
+# 4. Vektör Veritabanı (Çok büyük olabilir ve genellikle yüklenmez)
+faiss_index.bin
+daily_food_nutrition_dataset.csv
