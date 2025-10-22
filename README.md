@@ -25,7 +25,7 @@ Web Arayüzü: Streamlit
 # 🛠️ Kurulum ve Yerel Çalıştırma
 Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin.
 1. Dosya Yapısı Kontrolü
-   Deponun kök dizininde aşağıdaki dosyalar bulunmalıdır: project.py (Streamlit uygulaması),requirements.txt (Gerekli kütüphaneler),README.md ,LICENSE ,to-do.md ,.env 
+   Deponun kök dizininde aşağıdaki dosyalar bulunmalıdır: project.py (Streamlit uygulaması),requirements.txt (Gerekli kütüphaneler),README.md ,LICENSE ,.env 
 2. Sanal Ortam Kurulumu
 Proje bağımlılıklarını izole etmek için sanal ortam kurun ve requirements.txt dosyasındaki tüm kütüphaneleri yükleyin:
  Sanal ortam oluşturma (isteğe bağlı ama önerilir)
