@@ -3,7 +3,7 @@ Bu proje, Retrieval-Augmented Generation (RAG) mimarisini kullanarak, 10.000'den
 
 
 # 🚀 Canlı Uygulama
-(BURAYA Streamlit Cloud'a Deploy Ettikten Sonra Alacağınız Canlı Linki Ekleyeceksiniz)$$Canlı Uygulama Linki Buraya Gelecek$$
+https://beslenme-asistan--chatbot-5q4r3h42lkz9k6rqe2bcvd.streamlit.app/
 
 
 
